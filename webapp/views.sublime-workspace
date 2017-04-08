@@ -1,0 +1,257 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CurrencB",
+				"CurrencyBench"
+			],
+			[
+				"Benc",
+				"CurrencyBench"
+			],
+			[
+				"Active",
+				"Active_Currency"
+			],
+			[
+				"find_elemet",
+				"find_element_by_link_text"
+			],
+			[
+				"active",
+				"activecurrency"
+			],
+			[
+				"find_",
+				"find_element_by_xpath"
+			],
+			[
+				"find",
+				"find_element_by_name"
+			],
+			[
+				"swith",
+				"switch_to_default_content"
+			],
+			[
+				"find_eleme",
+				"find_element_by_id"
+			],
+			[
+				"find_elemen",
+				"find_element_by_xpath"
+			],
+			[
+				"im",
+				"implicitly_wait"
+			],
+			[
+				"exit",
+				"exitpoint"
+			],
+			[
+				"ratedata",
+				"ratedata"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Cody/Desktop/mysite/mysite/settings.py",
+		"/Users/Cody/Desktop/mysite/mysite/urls.py",
+		"/Users/Cody/Desktop/mysite/webapp/tests.py",
+		"/Users/Cody/Desktop/Python_Source/#Scraping_Version_2.5.0.py",
+		"/Users/Cody/Dropbox/Fx_Source/#Scraping Version 2.5.0.py",
+		"/Users/Cody/Dropbox/Fx_Source/#test.py",
+		"/Users/Cody/Dropbox/Fx_Source/Archive/#Scraping Version 2.3.2.py",
+		"/Users/Cody/Desktop/Python_Source/Merimen_data_collection v0.0.1.py",
+		"/Users/Cody/Desktop/Python_Source/#Scraping Version 2.py",
+		"/Users/Cody/Desktop/Python_Source/#Scraping Version 2.3.0.py",
+		"/Users/Cody/Desktop/Python_Source/Fx_Script v1.2.py",
+		"/Users/Cody/Dropbox/Fx_Source/Fx_Script v1.2.py",
+		"/Users/Cody/Dropbox/Fx_Source/#Scraping Version 2.py",
+		"/Users/Cody/Dropbox/Fx_Source/webdriver_test_mac.py",
+		"/Users/Cody/Dropbox/Fx_Source/Fx_Script_Mac v1.1.py",
+		"/Users/Cody/Dropbox/Fx_Source/webdriver_test.py",
+		"/Users/Cody/Desktop/Python_Source/webdriver_test.py",
+		"/Users/Cody/Dropbox/Fx_Source/Fx_Script_Mac v1.0.py",
+		"/Users/Cody/Dropbox/Fx Source/Fx_Script_Mac v1.0.py",
+		"/Users/Cody/Dropbox/Programming Codes/Python Sources/Fx Source/Fx_Script.py",
+		"/Users/Cody/Dropbox/Programming Codes/Python Sources/Fx Source/Buy_Sell_Mac.py",
+		"/Users/Cody/Dropbox/Programming Codes/Python Sources/Fx Source/pyautotest.py",
+		"/Users/Cody/Dropbox/Programming Codes/Python Sources/Fx Source/Buy_Sell.py",
+		"/Users/Cody/Dropbox/Programming Codes/Python Sources/Fx Source/Check_rate.py",
+		"/Users/Cody/Desktop/Python_Source/test.py",
+		"/Users/Cody/Desktop/Python_Source/Check_rate.py",
+		"/Users/Cody/Desktop/testRefresh.py",
+		"/testRefresh.py",
+		"/TestRefresh.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Fx_1",
+			"os.chdir",
+			"0.0",
+			"activeconrate",
+			"actprebuyrate",
+			"currconmov_diff",
+			"activeconrate",
+			"pdb",
+			"pdf",
+			"threading",
+			"sell_r",
+			"buy_r"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 20.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "views.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
